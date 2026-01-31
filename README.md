@@ -61,18 +61,22 @@ src="https://img.shields.io/twitter/follow/Abdullah115171?logo=twitter&style=for
 
 
 
-<b>My GitHub Stats</b>
-
-<p align="left">
-  <a href="https://github.com/fuel-66">
-    <img src="https://github-readme-stats.vercel.app/api?username=fuel-66&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true" alt="fuel-66's GitHub stats" />
-  </a>
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="350" align="right" alt="animated" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParshSharma&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
+  <p align="center">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="350" align="center" alt="animated" />
 </p>
+</div>
 
-<a href="https://github.com/fuel-66">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuel-66&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="fuel-66's streak stats" />
-</a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <h3>⭐ Don't forget to star my repositories if you find them useful!</h3>
+</div>
 
 <!-- Updated Language Stats Chart -->
 ### 🎨 Updated Language Stats
