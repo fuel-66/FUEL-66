@@ -62,7 +62,7 @@ src="https://img.shields.io/twitter/follow/Abdullah115171?logo=twitter&style=for
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParshSharma&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fuel-66&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
   <p align="center">
   <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="350" align="center" alt="animated" />
 </p>
